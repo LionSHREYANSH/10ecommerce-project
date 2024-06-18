@@ -1,0 +1,19 @@
+1.  mangement  :-  login , reg,  user,  profiled , list  , resrt , forget password , role  managent , 
+2procut management  :-  add,  delte, uodate,  list 
+3.  order management :-  add, list :-  cacncel  , checkout  ,  
+4.  payment  :-  sucess,  list,  :-  list management  :-  payment 
+
+
+role management  :- 
+1. super  admin 
+2. user role  with  login and witout 
+3. sub admin :- 
+1. work management :-  order histroy ,  order histroy payment sucess , product  instock  
+
+
+reg:- 
+ image 
+prfoile  update :- 
+email ,  name,  phone 
+
+age,  dob,  docment :- 
